@@ -7,4 +7,4 @@ return {
         Anchored = true
     }
 }
--- Simple part.
+-- Simple part
